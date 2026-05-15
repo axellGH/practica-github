@@ -13,3 +13,8 @@ Aprender el uso básico de GitHub, commits, ramas y Pull Request.
 - README.md
 - Carpeta semana-01
 - Archivo index.html
+
+## pasos para revisar
+
+1.Abrir carpeta semana-1
+2.Ejercutar index.html

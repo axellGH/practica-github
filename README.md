@@ -18,3 +18,8 @@ Aprender el uso básico de GitHub, commits, ramas y Pull Request.
 
 1.Abrir carpeta semana-1
 2.Ejercutar index.html
+
+## Herramnientas utilizadas
+
+1-GitHub
+2-GitHut Desktop
